@@ -1,0 +1,57 @@
+h2 {
+    margin: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.local-jogo {
+    margin: 50px;
+    width: 852px;
+    height: 452px;
+    background-color: aliceblue;
+}
+
+.jogo {
+    width: 650px;
+    height: 450px;
+    border: 1px solid #000;
+    float: left;
+}
+
+.botoes {
+    border: 1px solid #000;
+    width: 200px;
+    height: 450px;
+    margin-left: 651px;
+}
+
+.bola {
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-radius: 25px;
+    position: absolute;
+}
+
+#btn-inicio {
+    margin-top: 20px;
+    margin-left: 25px;
+    font-size: 25px;
+    text-align: center;
+    width: 150px;
+    height: 50px;
+}
+
+#btn-final {
+    margin-left: 25px;
+    font-size: 25px;
+    text-align: center;
+    width: 150px;
+    height: 50px;
+}
+
+.pontuacao {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+}
