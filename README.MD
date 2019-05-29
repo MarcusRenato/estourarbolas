@@ -1,0 +1,1 @@
+Jogo de estoutar bolas desenvolvido com JavaScript puro. Jogo desenvolvido com o objtivo de aprendizado.
